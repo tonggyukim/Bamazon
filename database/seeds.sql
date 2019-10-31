@@ -1,0 +1,10 @@
+insert into products (productname, departmentname, price, stockquantity) values ('Nba2k20', "Video Games", 59.99, 100);
+insert into products (productname, departmentname, price, stockquantity) values ('Madden20', "Video Games", 59.99, 200);
+insert into products (productname, departmentname, price, stockquantity) values ('iPhoneX Screen Case', "Tech", 19.99, 50);
+insert into products (productname, departmentname, price, stockquantity) values ('AirPods', "Electronics", 150.00, 100);
+insert into products (productname, departmentname, price, stockquantity) values ('Hydroflask', "Lifestyle", 34.99, 300);
+insert into products (productname, departmentname, price, stockquantity) values ('MacBook Air', "Electronics", 999.99, 250);
+insert into products (productname, departmentname, price, stockquantity) values ('Patagonia Jacket', "Clothing", 249.99, 50);
+insert into products (productname, departmentname, price, stockquantity) values ('iPhone Lightning Adapter', "Electronics", 24.99, 100);
+insert into products (productname, departmentname, price, stockquantity) values ('Xbox One', "Electronics", 249.99, 150);
+insert into products (productname, departmentname, price, stockquantity) values ('Ps4', "Electronics", 299.99, 130);
